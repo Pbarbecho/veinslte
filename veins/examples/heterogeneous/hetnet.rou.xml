@@ -1,0 +1,7 @@
+<routes>
+<!--Namespace(N=75, filecount=None, input='routes.txt', launch=False, output='singleIntersection.rou.xml', quarter=100)-->
+    <route edges="-gneE0" color="yellow" id="right"/>
+    <route edges="gneE0" color="green" id="left"/>
+    <vehicle id="1" type="car" depart="0" route="right"/>
+    <vehicle id="2" type="car" depart="0" route="left"/>
+</routes>
